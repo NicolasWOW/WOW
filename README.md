@@ -54,8 +54,7 @@ Ao acessar o projeto **Busca de Restaurantes**, o usuário pode visualizar uma p
 ## 🎨 Protótipo no Figma
 
 O protótipo completo do portfólio pode ser acessado pelo link abaixo:
-
-[🔗 Acessar protótipo no Figma](https://www.figma.com/board/T9QpWsGWdhCyAGHTPkJAKe/Dopomoga-figmajam--Community-?node-id=0-1&t=hmDxJrh2qaQqOpS7-1)
+https://java-grain-50034731.figma.site/
 
 ---
 
